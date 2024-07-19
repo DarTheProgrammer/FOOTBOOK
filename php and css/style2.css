@@ -1,0 +1,78 @@
+#myUser{
+    font-size: 2em;
+    text-transform: text; 
+
+}
+
+#myPass{
+    font-size: 2em;
+     text-align: center;
+}
+
+.blnk{
+    padding: 10px 0;
+    display: block;
+}
+
+*{
+    text-align: center;
+}
+
+body {
+    background-image: url('rain.jpg');
+    background-repeat: no-repeat;
+}
+
+.forms{
+
+    background-color: #ffff;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    padding-left: 100px 0;
+    padding: 10px 25px;
+    border-radius: 10px;
+    background-color: lightskyblue;
+
+}
+
+.intro{
+    background-color: #ffff;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 15px;
+    background-color: lightskyblue;
+    
+}
+
+#submitBtn{
+    background-color: #00ff15;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 80px;
+   cursor: pointer;
+    
+    
+    
+    
+}
+
+.bottom{
+     
+    height: 100%;
+     width: 180px;
+     position: absolute;
+     background-color: #ffff;
+     transition: 0.5s ease;
+     transform: translateX(-180px)
+   
+}
+
+.login{
+    font-family: georgia;
+    color: rgb(0, 102, 255);
+
+}

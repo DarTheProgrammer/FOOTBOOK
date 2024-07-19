@@ -1,0 +1,58 @@
+.title{
+
+    color:rgb(0, 0, 0);
+    text-shadow:2px 2px 3px red ;
+}
+
+.Buttons{
+
+     margin-left: 15px;
+     overflow: hidden;
+
+}
+
+.Buttons :first-child {
+
+    float: left;
+    padding: 10px 25px;
+
+}
+
+.Buttons :nth-child(2) {
+
+       margin-right: 15px;
+       float: right;
+       padding: 10px 25px;
+
+}
+
+
+button {
+
+     background-color: Green;
+     padding: 10px 25px;
+     border: none;
+     color: white;
+     cursor: pointer;
+     border-radius: 15px;
+     outline: none;
+}
+.y{
+
+    color: blue;
+    text-shadow: 1px 1px 10px blue;
+}
+
+.hatdog{
+
+     text-transform: uppercase;
+
+}
+
+.myMarq{
+     direction: left;
+     width: 2em;
+     height: 10px;
+     font-size: 10000em;
+
+}
